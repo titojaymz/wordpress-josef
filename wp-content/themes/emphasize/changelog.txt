@@ -1,0 +1,113 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+-------------------------------------------------------
+    CHANGELOG Version Numbers
+-------------------------------------------------------
+
+[major].[minor].[patch]
+
+These 3 levels are defined as:
+
+1. An increment in the major version indicates a break in backward compatibility.
+2. An increment in the minor version indicates the addition of new features or a significant change to existing features.
+3. An increment in the patch version indicates that minor features have been changed or bugs have been fixed.
+
+-------------------------------------------------------
+    Changes Made to this Theme
+-------------------------------------------------------
+
+
+October 4, 2016 - 1.2.8
+--------------------------------------
+
+- Updated the theme URLs from http to https due to links for tutorials were incorrect.
+- Updated the style.css tags to remove depreciated tags
+- Updated the footer date coding for translation
+
+
+April 19, 2016 - 1.2.7
+--------------------------------------
+
+- Fixed the Left Featured blog style layout because it was not working.
+- Changed the Left Featured blog style to only use excerpts because of the type of layout this uses
+- Adjusted some CSS for blog summary margins.
+
+
+
+April 7, 2016 - 1.2.6
+--------------------------------------
+
+- Updated the logo setting in the customizer
+- Added "Refresh Widgets" support for WordPress 4.5
+- Moved the inline styles to an enqueue method
+- Changed and updated the content or excerpt option code
+- Removed some embedded CSS from theme files
+- Removed jquery-ui.js (not being used)
+- Added a new feature to move the featured image above or below the post title
+- Added help buttons to the customizer for support, tutorials, review, etc.
+
+
+September 2, 2015 - 1.1.6
+--------------------------------------
+
+- Updated the emphasize.pot language file which was missed on my 1.1.5 update.
+
+
+September 2, 2015 - 1.1.5
+--------------------------------------
+
+- Fixed missing Customizer colour settings for the main menu which were in the now obsolete "Nav" section; Moved to "Colors"
+- Fixed missing RSS icon for the social networking menu
+- Fixed a text domain issue that was missing in the footer.php file for the date "Y" numeral year.
+- Enhanced sanitization for the customizer and sidebars.php file labels and names.
+- Updated how the Google Fonts are loaded (enqueue) based on the Twenty Sixteen theme method.
+- Updated the emphasize.pot language file
+- Updated the Theme URL in the style.css file
+- Added the option to choose Content with Read More or Excerpts for the blog.
+- Added the option to choose Content with Read More or Excerpt for the Image Post Format
+- Added Customizer buttons that links to theme setup tutorials, theme support, reviews... 
+
+
+May 10, 2015 - 1.0.4
+--------------------------------------
+
+- Changed the logo upload option setting in the customizer and the logo-group.php 
+
+
+May 9, 2015 - 1.0.3
+--------------------------------------
+
+- Changed the copyright option setting back to it's original method; the previous wasn't working.
+- Cleaned up the custom-header.php file and created it as a function.
+- Updated the readme.txt file to include licenses and credits of resources related to Emphasize
+- updated the logo option by escaping the option in the logo-group.php file.
+
+
+May 9, 2015 - 1.0.2
+--------------------------------------
+
+- Changed the hex color sanitize function name in the customizer.php file
+- Changed all get_theme_mods() to include escaped attributes (all files)
+- Changed the footer option setting for entering your copyright name via the customizer
+- Adjusted the WP Gallery caption text padding and font size.
+
+
+May 3, 2015 - 1.0.1
+--------------------------------------
+
+- Deleted the empty rtl.css file
+- Deleted the fixed-layout tag from the stylesheet details
+- Deleted the .mo file which is not needed in the package
+
+
+April 20, 2015 - 1.0.0
+--------------------------------------
+
+- New theme is released

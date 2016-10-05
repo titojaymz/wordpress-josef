@@ -1,0 +1,757 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Emphasize\n"
+"POT-Creation-Date: 2016-04-07 22:26-0700\n"
+"PO-Revision-Date: 2016-04-07 21:44-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Unfortunately, the page you were hoping to find is not here. It may be a "
+"deleted page or an error on our part. Please try searching again, or use the "
+"main menu at the top to go to another part of our website."
+msgstr ""
+
+#: author.php:39
+msgid "Articles Written by"
+msgstr ""
+
+#: comments.php:24
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:24
+msgid " Comment "
+msgstr ""
+
+#: comments.php:24
+msgid " Comments "
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:52
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:67
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:68
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:70
+msgid "Submit"
+msgstr ""
+
+#: comments.php:71
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:75
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:76
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:77
+msgid "Website"
+msgstr ""
+
+#: content-image.php:21 content.php:40 content.php:75 content.php:111
+#: content.php:146 inc/extras.php:139
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:40 image.php:41
+msgid "Pages:"
+msgstr ""
+
+#: content-status.php:15
+msgid "UPDATE: "
+msgstr ""
+
+#: footer.php:50
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:51
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:127
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:40
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme Support"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Please Rate Influential Lite"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Get the Pro Version"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "I recommend combining your site or business name with the logo."
+msgstr ""
+
+#: inc/customizer.php:42
+msgid ""
+"You can set the primary colours for most elements in this theme from here."
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Background may only be visible when using the boxed layout or on short pages."
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Your Logo"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Select the image to be used for the site logo."
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Logo Margins"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:98 inc/customizer.php:646
+msgid "Standard Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:99 inc/customizer.php:647
+msgid "Standard Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:100 inc/customizer.php:648
+msgid "Centered No Left or Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:101 inc/customizer.php:649
+msgid "Left Featured Image - No Sidebars"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Featured Image Position"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Featured Image Above Post Title"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Featured Image Below Post Title"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Content or Excerpt"
+msgstr ""
+
+#: inc/customizer.php:131 inc/customizer.php:148 inc/customizer.php:674
+#: inc/customizer.php:687
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:132 inc/customizer.php:149 inc/customizer.php:675
+#: inc/customizer.php:688
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Content or Excerpt for Image Post Format"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Single Layout"
+msgstr ""
+
+#: inc/customizer.php:179 inc/customizer.php:631
+msgid "Single Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:180 inc/customizer.php:632
+msgid "Single Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:181 inc/customizer.php:633
+msgid "Single No Sidebars"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Hide Edit Links"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Hide the Post Footer Info"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Hide the Post Footer Nav"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Hide Featured Image on Single Post"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Hide the Top Banner Shadow"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Header Background Colour"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Bottom Widgets Background"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Bottom Widgets Text"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Bottom Widget Links"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Bottom Widget Link Hover"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Bottom Widget List Borders"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Footer Links"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Footer Link Hover"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Main Content Text"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Headings Colour"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Link Colour"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Social Network Icons"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Social Network Icons Hover"
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Gallery Caption Background"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Gallery Caption Text"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Main Menu Links"
+msgstr ""
+
+#: inc/customizer.php:512
+msgid "Main Menu Hover &amp; Active"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Mobile Menu Button"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "Mobile Menu Button Hover"
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "Mobile Menu Button Text"
+msgstr ""
+
+#: inc/extras.php:53
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:169
+msgid "at"
+msgstr ""
+
+#: inc/extras.php:179
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/sidebars.php:16
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:18
+msgid "This is the blog right sidebar column."
+msgstr ""
+
+#: inc/sidebars.php:25
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:27
+msgid "This is the blog left sidebar column."
+msgstr ""
+
+#: inc/sidebars.php:34
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:36
+msgid "This is the page right sidebar column"
+msgstr ""
+
+#: inc/sidebars.php:43
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:45
+msgid "This is the page left sidebar column"
+msgstr ""
+
+#: inc/sidebars.php:52
+msgid "Full Width Banner"
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Full width banner."
+msgstr ""
+
+#: inc/sidebars.php:62
+msgid "Top 1"
+msgstr ""
+
+#: inc/sidebars.php:64
+msgid "This is the 1st top widget position."
+msgstr ""
+
+#: inc/sidebars.php:71
+msgid "Top 2"
+msgstr ""
+
+#: inc/sidebars.php:73
+msgid "This is the 2nd top widget position."
+msgstr ""
+
+#: inc/sidebars.php:80
+msgid "Top 3"
+msgstr ""
+
+#: inc/sidebars.php:82
+msgid "This is the 3rd top widget position."
+msgstr ""
+
+#: inc/sidebars.php:89
+msgid "Top 4"
+msgstr ""
+
+#: inc/sidebars.php:91
+msgid "This is the 4th top widget position."
+msgstr ""
+
+#: inc/sidebars.php:99
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:101
+msgid "This is the first bottom widget position located above the footer."
+msgstr ""
+
+#: inc/sidebars.php:108
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:110
+msgid ""
+"This is the second featured bottom widget position located above the footer."
+msgstr ""
+
+#: inc/sidebars.php:117
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:119
+msgid ""
+"This is the third featured bottom widget position located above the footer."
+msgstr ""
+
+#: inc/sidebars.php:126
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:128
+msgid ""
+"This is the fourth featured bottom widget position located above the footer."
+msgstr ""
+
+#: inc/sidebars.php:136
+msgid "Footer"
+msgstr ""
+
+#: inc/sidebars.php:138
+msgid "This is the footer position at the very bottom where the copyright is."
+msgstr ""
+
+#: inc/sidebars.php:145
+msgid "Call to Action"
+msgstr ""
+
+#: inc/sidebars.php:147
+msgid ""
+"This is a call to action which is normally used to make a message stand out "
+"just above the main content."
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Page Continued:"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgctxt ""
+msgid "Previous Article: %link"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgctxt ""
+msgid "Next Article: %link"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Photo Navigation"
+msgstr ""
+
+#: inc/template-tags.php:153
+#, php-format
+msgctxt "post date"
+msgid "Published on %s"
+msgstr ""
+
+#: inc/template-tags.php:158
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:175 inc/template-tags.php:181
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:177
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:183
+#, php-format
+msgid "Tagged With: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:209
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:211
+#, php-format
+msgid "Articles Tagged with %s"
+msgstr ""
+
+#: inc/template-tags.php:213
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: inc/template-tags.php:215
+#, php-format
+msgid "Articles for %s "
+msgstr ""
+
+#: inc/template-tags.php:215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:217 inc/template-tags.php:219
+#, php-format
+msgid "Articles for %s"
+msgstr ""
+
+#: inc/template-tags.php:217
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:223
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:229
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:231
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:233
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:235
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:237
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:239
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:243
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: loop.php:55
+msgid "in"
+msgstr ""
+
+#: loop.php:89 search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "Search label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "Submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/post-header.php:13
+msgid "Featured"
+msgstr ""
+
+#: template-parts/post-header.php:17 template-parts/post-header.php:22
+msgid "Untitled"
+msgstr ""
+
+#: template-parts/summary-footer.php:9
+msgid "Edit this Post"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Emphasize"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.shapedpixels.com/free-wordpress-themes/emphasize"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Emphasize is a Responsive Multipurpose theme that is easy to use, flexible, "
+"and built on a solid foundation for scalability. With aesthetics that are "
+"designed with an open concept in mind, Emphasize offer clean lines, elegant "
+"style, and overall good looks so that you and your website visitors can "
+"focus on what is really important....Content. We begin with a fluid/fixed "
+"responsive layout, Retina ready theme graphics, Unlimited Colours, 50 "
+"Animation Elements, 4 Blog Styles, 15 Widget Positions, Schema microdata "
+"(structured data) for Google, Customized Post Formats, a ton of theme "
+"features using the built-in WordPress Customizer, Custom Header, Custom "
+"Backgrounds, Social Networking menu, several Page Templates, Jetpack ready, "
+"and much more!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shaped Pixels"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.shapedpixels.com"
+msgstr ""
