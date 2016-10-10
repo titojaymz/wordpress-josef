@@ -29,10 +29,10 @@
     <header id="masthead" class="site-header" role="banner">
 
     <div class="header-bg" style="background-color: <?php echo esc_attr(get_theme_mod( 'header_bgcolour', '#ffffff' )); ?>; background-image: url(<?php if (get_header_image() != '') : ?><?php header_image(); ?>
-	<?php endif; ?>);">
+	<?php endif; ?>); background-repeat: no-repeat; height:300px;">
         
         <div class="site-branding">  
-            <?php get_template_part( 'template-parts/logo-group' ); ?>    
+            <?php// get_template_part( 'template-parts/logo-group' ); ?>    
         </div><!-- .site-branding -->
         
         <nav id="site-navigation" class="site-navigation primary-navigation" role="navigation">
